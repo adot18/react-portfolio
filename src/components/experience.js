@@ -5,7 +5,7 @@ class Education extends Component {
   render() {
     return (
       <Grid>
-        <Cell col={4}>
+        <Cell col={6}>
           <p>
             <b>{this.props.description}</b>
           </p>
@@ -15,7 +15,7 @@ class Education extends Component {
             {this.props.endMonth} {this.props.endYear}
           </p>
         </Cell>
-        <Cell col={8}>
+        <Cell col={5}>
           <h4 style={{ marginTop: "0px" }}>
             <img src={this.props.href} width="200" height="200"></img>
           </h4>

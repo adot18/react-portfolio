@@ -35,6 +35,7 @@ class Resume extends Component {
           </Cell>
           <Cell className="resume-right-col" col={6}>
             <h2>Education</h2>
+
             <Education
               startYear={2019}
               endYear={2022}
