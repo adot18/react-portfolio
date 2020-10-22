@@ -36,7 +36,7 @@ class Landing extends Component {
                   </a>
 
                   <a
-                    href="https://drive.google.com/file/d/1BDUMHHlkXsTgU4VvR8nfVzl3_AL-C0hp/view?usp=sharing"
+                    href="https://drive.google.com/file/d/1tCVARodh2BIxggi_5mPPofBI8eepI2Lc/view?usp=sharing"
                     rel="noopener noreferrer"
                     target="_blank"
                     class="pdf"
